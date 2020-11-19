@@ -1,3 +1,6 @@
 class HelloWorid {
-  System.out.println("HelloWorld");
+	//ハロー
+	int id;
+	String name;
+	double num;
 }
