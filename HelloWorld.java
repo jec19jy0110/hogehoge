@@ -4,4 +4,5 @@ class HelloWorid {
 	String name;
 	double num;
 	int abc;
+	int xyz;
 }
